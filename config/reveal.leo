@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -36,6 +36,61 @@
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20181014165804.1"><vh>week1</vh>
+<v t="leo.20181014165804.2"><vh>title</vh>
+<v t="leo.20181014165804.3"><vh>week1</vh></v>
+</v>
+<v t="leo.20181014165804.4"><vh>01</vh>
+<v t="leo.20181014165804.5"><vh>01</vh></v>
+</v>
+<v t="leo.20181014165804.6"><vh>02</vh>
+<v t="leo.20181014165804.7"><vh>02</vh></v>
+</v>
+</v>
+<v t="leo.20181014170137.1"><vh>week2</vh>
+<v t="leo.20181014170137.2"><vh>title</vh>
+<v t="leo.20181014170137.3"><vh>week2</vh></v>
+</v>
+<v t="leo.20181014170137.4"><vh>01</vh>
+<v t="leo.20181014170137.5"><vh>01</vh></v>
+</v>
+<v t="leo.20181014170137.6"><vh>02</vh>
+<v t="leo.20181014170137.7"><vh>02</vh></v>
+</v>
+</v>
+<v t="leo.20181014170153.1"><vh>week3</vh>
+<v t="leo.20181014170153.2"><vh>title</vh>
+<v t="leo.20181014170153.3"><vh>week3</vh></v>
+</v>
+<v t="leo.20181014170153.4"><vh>01</vh>
+<v t="leo.20181014170153.5"><vh>01</vh></v>
+</v>
+<v t="leo.20181014170153.6"><vh>02</vh>
+<v t="leo.20181014170153.7"><vh>02</vh></v>
+</v>
+</v>
+<v t="leo.20181014170356.1"><vh>week4</vh>
+<v t="leo.20181014170356.2"><vh>title</vh>
+<v t="leo.20181014170356.3"><vh>week4</vh></v>
+</v>
+<v t="leo.20181014170356.4"><vh>01</vh>
+<v t="leo.20181014170356.5"><vh>01</vh></v>
+</v>
+<v t="leo.20181014170356.6"><vh>02</vh>
+<v t="leo.20181014170356.7"><vh>02</vh></v>
+</v>
+</v>
+<v t="leo.20181014170403.1"><vh>week5</vh>
+<v t="leo.20181014170403.2" a="E"><vh>title</vh>
+<v t="leo.20181014170403.3"><vh>week4</vh></v>
+</v>
+<v t="leo.20181014170403.4"><vh>01</vh>
+<v t="leo.20181014170403.5"><vh>01</vh></v>
+</v>
+<v t="leo.20181014170403.6"><vh>02</vh>
+<v t="leo.20181014170403.7"><vh>02</vh></v>
 </v>
 </v>
 </v>
@@ -326,5 +381,205 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181014165804.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181014165804.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181014165804.3"># week1
+</t>
+<t tx="leo.20181014165804.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181014165804.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yOpu0xjPSPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181014165804.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181014165804.7">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/F9fhC1u2tNg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181014170137.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181014170137.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181014170137.3"># week2
+</t>
+<t tx="leo.20181014170137.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181014170137.5"></t>
+<t tx="leo.20181014170137.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181014170137.7"></t>
+<t tx="leo.20181014170153.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181014170153.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181014170153.3"># week3
+</t>
+<t tx="leo.20181014170153.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181014170153.5"></t>
+<t tx="leo.20181014170153.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181014170153.7"></t>
+<t tx="leo.20181014170356.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181014170356.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181014170356.3"># week4
+</t>
+<t tx="leo.20181014170356.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181014170356.5"></t>
+<t tx="leo.20181014170356.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181014170356.7"></t>
+<t tx="leo.20181014170403.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181014170403.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181014170403.3"># week5
+</t>
+<t tx="leo.20181014170403.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181014170403.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jtM-Rsf24M0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181014170403.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181014170403.7">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PTMB39jPxZg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
