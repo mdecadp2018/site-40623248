@@ -179,7 +179,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2018Fall 40623248簡報
 
 ### 虎科大機械設計工程系
 
@@ -187,7 +187,7 @@ vertical: body pane on the botton</t>
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 Fall 網誌](./../blog/index.html)
 
 
 </t>
@@ -410,7 +410,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181014165804.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yOpu0xjPSPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181014165804.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yOpu0xjPSPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181014165804.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -420,7 +422,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181014165804.7">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/F9fhC1u2tNg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181014165804.7">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/F9fhC1u2tNg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181014170137.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -570,7 +574,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181014170403.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jtM-Rsf24M0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181014170403.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jtM-Rsf24M0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181014170403.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -580,6 +586,8 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181014170403.7">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PTMB39jPxZg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181014170403.7">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PTMB39jPxZg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
