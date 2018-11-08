@@ -24,10 +24,10 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -39,58 +39,69 @@
 </v>
 </v>
 <v t="leo.20181014165804.1"><vh>week1</vh>
-<v t="leo.20181014165804.2"><vh>title</vh>
+<v t="leo.20181014165804.2" a="E"><vh>title</vh>
 <v t="leo.20181014165804.3"><vh>week1</vh></v>
 </v>
-<v t="leo.20181014165804.4"><vh>01</vh>
+<v t="leo.20181014165804.4" a="E"><vh>01</vh>
 <v t="leo.20181014165804.5"><vh>01</vh></v>
 </v>
-<v t="leo.20181014165804.6"><vh>02</vh>
+<v t="leo.20181014165804.6" a="E"><vh>02</vh>
 <v t="leo.20181014165804.7"><vh>02</vh></v>
 </v>
 </v>
 <v t="leo.20181014170137.1"><vh>week2</vh>
-<v t="leo.20181014170137.2"><vh>title</vh>
+<v t="leo.20181014170137.2" a="E"><vh>title</vh>
 <v t="leo.20181014170137.3"><vh>week2</vh></v>
 </v>
-<v t="leo.20181014170137.4"><vh>01</vh>
+<v t="leo.20181014170137.4" a="E"><vh>01</vh>
 <v t="leo.20181014170137.5"><vh>01</vh></v>
 </v>
-<v t="leo.20181014170137.6"><vh>02</vh>
+<v t="leo.20181014170137.6" a="E"><vh>02</vh>
 <v t="leo.20181014170137.7"><vh>02</vh></v>
 </v>
 </v>
 <v t="leo.20181014170153.1"><vh>week3</vh>
-<v t="leo.20181014170153.2"><vh>title</vh>
+<v t="leo.20181014170153.2" a="E"><vh>title</vh>
 <v t="leo.20181014170153.3"><vh>week3</vh></v>
 </v>
-<v t="leo.20181014170153.4"><vh>01</vh>
+<v t="leo.20181014170153.4" a="E"><vh>01</vh>
 <v t="leo.20181014170153.5"><vh>01</vh></v>
-</v>
-<v t="leo.20181014170153.6"><vh>02</vh>
-<v t="leo.20181014170153.7"><vh>02</vh></v>
 </v>
 </v>
 <v t="leo.20181014170356.1"><vh>week4</vh>
-<v t="leo.20181014170356.2"><vh>title</vh>
+<v t="leo.20181014170356.2" a="E"><vh>title</vh>
 <v t="leo.20181014170356.3"><vh>week4</vh></v>
 </v>
-<v t="leo.20181014170356.4"><vh>01</vh>
+<v t="leo.20181014170356.4" a="E"><vh>01</vh>
 <v t="leo.20181014170356.5"><vh>01</vh></v>
-</v>
-<v t="leo.20181014170356.6"><vh>02</vh>
-<v t="leo.20181014170356.7"><vh>02</vh></v>
 </v>
 </v>
 <v t="leo.20181014170403.1"><vh>week5</vh>
 <v t="leo.20181014170403.2" a="E"><vh>title</vh>
-<v t="leo.20181014170403.3"><vh>week4</vh></v>
+<v t="leo.20181014170403.3"><vh>week5</vh></v>
 </v>
-<v t="leo.20181014170403.4"><vh>01</vh>
+<v t="leo.20181014170403.4" a="E"><vh>01</vh>
 <v t="leo.20181014170403.5"><vh>01</vh></v>
 </v>
-<v t="leo.20181014170403.6"><vh>02</vh>
-<v t="leo.20181014170403.7"><vh>02</vh></v>
+</v>
+<v t="leo.20181108184050.1" a="E"><vh>week6</vh>
+<v t="leo.20181108184050.2" a="E"><vh>title</vh>
+<v t="leo.20181108184050.3"><vh>week6</vh></v>
+</v>
+</v>
+<v t="leo.20181108184052.1"><vh>week7</vh>
+<v t="leo.20181108184052.2" a="E"><vh>title</vh>
+<v t="leo.20181108184052.3"><vh>week7</vh></v>
+</v>
+</v>
+<v t="leo.20181108184055.1" a="E"><vh>week8</vh>
+<v t="leo.20181108184055.2" a="E"><vh>title</vh>
+<v t="leo.20181108184055.3"><vh>week8</vh></v>
+</v>
+</v>
+<v t="leo.20181108184057.1" a="E"><vh>week9</vh>
+<v t="leo.20181108184057.2" a="E"><vh>title</vh>
+<v t="leo.20181108184057.3"><vh>week9</vh></v>
 </v>
 </v>
 </v>
@@ -398,7 +409,10 @@ make.start()
 						
 </t>
 <t tx="leo.20181014165804.3"># week1
-</t>
+
+* 熟悉github
+
+* 建立一個新的倉庫,名字為自己的學 號.github.io,權限設為公開</t>
 <t tx="leo.20181014165804.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -410,7 +424,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181014165804.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yOpu0xjPSPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+<t tx="leo.20181014165804.5">&lt;small&gt;
+開始使用onshape
+&lt;small&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yOpu0xjPSPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20181014165804.6">&lt;section data-markdown&gt;
@@ -442,7 +460,7 @@ make.start()
 						
 </t>
 <t tx="leo.20181014170137.3"># week2
-</t>
+* 領期中的作業,自行掌握每周的進度</t>
 <t tx="leo.20181014170137.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -454,7 +472,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181014170137.5"></t>
+<t tx="leo.20181014170137.5">&lt;small&gt;
+開始用標註和約束條件
+&lt;small&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Oy1lzYFlmpI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181014170137.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -464,7 +488,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181014170137.7"></t>
+<t tx="leo.20181014170137.7">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2JJEDDgACkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181014170153.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -482,7 +506,7 @@ make.start()
 						
 </t>
 <t tx="leo.20181014170153.3"># week3
-</t>
+9月24日中秋節放假（●´∀｀）ノ</t>
 <t tx="leo.20181014170153.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -494,17 +518,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181014170153.5"></t>
-<t tx="leo.20181014170153.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+<t tx="leo.20181014170153.5">onshape
 
+&lt;small&gt;
+使用boolean指令編輯多零件之特徵
+&lt;small&gt;
 
-						
-</t>
-<t tx="leo.20181014170153.7"></t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wTxKYAOpdgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181014170356.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -522,7 +542,7 @@ make.start()
 						
 </t>
 <t tx="leo.20181014170356.3"># week4
-</t>
+* 開始使用onshape,因為英文版的介面,在練習的時候都要先查各個指令的意思,才能順利的完成作業</t>
 <t tx="leo.20181014170356.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -534,17 +554,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181014170356.5"></t>
-<t tx="leo.20181014170356.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+<t tx="leo.20181014170356.5">onshape
 
+&lt;small&gt;
+練習組合圖之約束條件
+&lt;small&gt;
 
-						
-</t>
-<t tx="leo.20181014170356.7"></t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Kidf2S2T6AI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181014170403.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -562,7 +578,10 @@ make.start()
 						
 </t>
 <t tx="leo.20181014170403.3"># week5
-</t>
+
+* 練習onshape
+
+* 了解設計意圖是什麼</t>
 <t tx="leo.20181014170403.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -574,20 +593,94 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181014170403.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jtM-Rsf24M0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+<t tx="leo.20181014170403.5">onshape
+
+&lt;small&gt;
+繪製2D工程圖
+&lt;small&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cHS8zuKm-5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
-<t tx="leo.20181014170403.6">&lt;section data-markdown&gt;
+<t tx="leo.20181108184050.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108184050.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181014170403.7">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PTMB39jPxZg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+<t tx="leo.20181108184050.3"># week6
+* 升級最新的CMSimfly倉儲中的flaskapp.py
+</t>
+<t tx="leo.20181108184052.1">&lt;section&gt;
+@others
+&lt;/section&gt;
 
+</t>
+<t tx="leo.20181108184052.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108184052.3"># week7
+
+* 由於github無法登入,也許是因為github在更換伺服器所,若不是這個問題可能要回去使用Fossli SCM
+</t>
+<t tx="leo.20181108184055.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108184055.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108184055.3"># week8
+
+* 開始找期末組員
+
+* 練習onshape</t>
+<t tx="leo.20181108184057.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108184057.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108184057.3"># week9
+
+* 期末考周,自評分數
 </t>
 </tnodes>
 </leo_file>
