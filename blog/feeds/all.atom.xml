@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-11-05T11:00:00+08:00</updated><entry><title>2018 Fall week9</title><link href="./2018-Fall-Project-Blog-week9.html" rel="alternate"></link><published>2018-11-05T11:00:00+08:00</published><updated>2018-11-05T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-11-05:./2018-Fall-Project-Blog-week9.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h2&gt;onshape&lt;/h2&gt;
-&lt;p&gt;練&lt;/p&gt;</content><category term="2018Fall-week9"></category></entry><entry><title>2018 Fall week8</title><link href="./2018-Fall-Project-Blog-week8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-10-29:./2018-Fall-Project-Blog-week8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h2&gt;onshape&lt;/h2&gt;</content><category term="2018Fall-week9"></category></entry><entry><title>2018 Fall week8</title><link href="./2018-Fall-Project-Blog-week8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-10-29:./2018-Fall-Project-Blog-week8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;onshape&lt;/h2&gt;</content><category term="2018Fall-week8"></category></entry><entry><title>2018 Fall week7</title><link href="./2018-Fall-Project-Blog-week7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-10-22:./2018-Fall-Project-Blog-week7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
@@ -16,7 +15,9 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cHS8zuKm-5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall-week5"></category></entry><entry><title>2018 Fall week4</title><link href="./2018-Fall-Project-Blog-week4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-10-01:./2018-Fall-Project-Blog-week4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;onshape&lt;/h2&gt;
-&lt;p&gt;練習組合圖之約束條件&lt;/p&gt;</content><category term="2018Fall-week4"></category></entry><entry><title>2018 Fall week3</title><link href="./2018-Fall-Project-Blog-week3.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-09-24:./2018-Fall-Project-Blog-week3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;練習組合圖之約束條件&lt;/p&gt;
+&lt;p&gt;01
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Kidf2S2T6AI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall-week4"></category></entry><entry><title>2018 Fall week3</title><link href="./2018-Fall-Project-Blog-week3.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-09-24:./2018-Fall-Project-Blog-week3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;onshape&lt;/h2&gt;
 &lt;p&gt;使用boolean指令編輯多零件之特徵&lt;/p&gt;
@@ -25,7 +26,7 @@
 02
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ijgBHD5nPzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 03
-&lt;iframe width="8560" height="315" src="https://www.youtube.com/embed/xTuJJ7DPajw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xTuJJ7DPajw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 04
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nFREBJZH3q8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall-week3"></category></entry><entry><title>2018 Fall week2</title><link href="./2018-Fall-Project-Blog-week2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-09-17:./2018-Fall-Project-Blog-week2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
@@ -53,9 +54,9 @@
 04
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Tv5hurUigNc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
 05
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ieem3_6FPxo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h2&gt;06&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DU9zz61XUUw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall-week1"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-08T11:00:00+08:00</published><updated>2018-09-08T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-08:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ieem3_6FPxo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+06
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DU9zz61XUUw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall-week1"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-08T11:00:00+08:00</published><updated>2018-09-08T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-08:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
