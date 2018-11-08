@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-11-05T11:00:00+08:00</updated><entry><title>2018 Fall week9</title><link href="./2018-Fall-Project-Blog-week9.html" rel="alternate"></link><published>2018-11-05T11:00:00+08:00</published><updated>2018-11-05T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-11-05:./2018-Fall-Project-Blog-week9.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h2&gt;onshape&lt;/h2&gt;</content><category term="2018Fall-week9"></category></entry><entry><title>2018 Fall week8</title><link href="./2018-Fall-Project-Blog-week8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-10-29:./2018-Fall-Project-Blog-week8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Github Classroom 管理員在 mdecadp2018 建立 finalproject 協同作業, 建立後得到能讓各組員參與分組的作業連結&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;組長登入 Github 後, 點選分組作業連結後, 建立各分組 team, 並完成分組倉儲的設定, mdecadp2018/finalproject-bg1 ~ bg8&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;各組員登入 Github, 點選分組作業連結, 依照組序加入各組對應的 team.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2018Fall-week9"></category></entry><entry><title>2018 Fall week8</title><link href="./2018-Fall-Project-Blog-week8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-10-29:./2018-Fall-Project-Blog-week8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h2&gt;onshape&lt;/h2&gt;</content><category term="2018Fall-week8"></category></entry><entry><title>2018 Fall week7</title><link href="./2018-Fall-Project-Blog-week7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-10-22:./2018-Fall-Project-Blog-week7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;Onshape可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔助機械設計繪圖, 此一雲端工具在假設網路無所不在的環境中, 新產品開發團隊成員可以利用雲般無所不在, 且毫無限制的電腦輔助設計套件, 協同完成各式零組件的設計與繪製.&lt;/p&gt;
+&lt;p&gt;且毫無限制的電腦輔助設計套件, 協同完成各式零組件的設計與繪製.&lt;/p&gt;
+&lt;p&gt;所謂雲端&lt;/p&gt;
+&lt;p&gt;https://en.wikipedia.org/wiki/Cloud_computing&lt;/p&gt;
+&lt;p&gt;shared pools (可供共享用之眾多伺服器) of configurable computer system resources (可配置的電腦系統資源)&lt;/p&gt;
+&lt;p&gt;雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少&lt;/p&gt;
+&lt;p&gt;pool: a readily available supply (能隨時提供配置與調適)&lt;/p&gt;
+&lt;p&gt;Ubuntu Cloud: https://help.ubuntu.com/lts/serverguide/ubuntucloud.html.en&lt;/p&gt;
+&lt;p&gt;higher-level services that can be rapidly provisioned (可快速配置) with minimal management effort (最少管理), often over the Internet.&lt;/p&gt;
+&lt;p&gt;Cloud computing relies on sharing of resources to achieve coherence (一致性) and economies of scale (經濟規模), similar to a public utility (公共服務事業, 如電力公司與自來水公司)&lt;/p&gt;</content><category term="2018Fall-week8"></category></entry><entry><title>2018 Fall week7</title><link href="./2018-Fall-Project-Blog-week7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-10-22:./2018-Fall-Project-Blog-week7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h2&gt;onshape&lt;/h2&gt;</content><category term="2018Fall-week7"></category></entry><entry><title>2018 Fall week6</title><link href="./2018-Fall-Project-Blog-week6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-10-15:./2018-Fall-Project-Blog-week6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;課程內容 使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程&lt;/p&gt;
+&lt;p&gt;1.更新程式碼:&lt;/p&gt;
+&lt;p&gt;(1) 從 https://localhost8443 啟動動態網頁&lt;/p&gt;
+&lt;p&gt;(2) 動態資料放在config/content.htm&lt;/p&gt;
+&lt;p&gt;(3) 動態網頁出問題時可能是系統無法處理,要解決版本的問題&lt;/p&gt;
+&lt;p&gt;(4)舊的程式沒辦法用圖片當作標題,程式升級後就不會產生錯誤&lt;/p&gt;
+&lt;p&gt;(5)升級flaskapp.py試著用同樣程式處理&lt;/p&gt;
+&lt;p&gt;(6)升級時記得content.htm要停留在某一個版本&lt;/p&gt;</content><category term="2018Fall-week7"></category></entry><entry><title>2018 Fall week6</title><link href="./2018-Fall-Project-Blog-week6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-10-15:./2018-Fall-Project-Blog-week6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h2&gt;onshape&lt;/h2&gt;</content><category term="2018Fall-week6"></category></entry><entry><title>2018 Fall week5</title><link href="./2018-Fall-Project-Blog-week5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-10-08:./2018-Fall-Project-Blog-week5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;1.以更新 lab-booking-cdlab 倉儲內容為例，說明管理內容流程&lt;/p&gt;
+&lt;p&gt;2.說明如何升級最新的CMSimfly倉儲中的flaskapp.py&lt;/p&gt;</content><category term="2018Fall-week6"></category></entry><entry><title>2018 Fall week5</title><link href="./2018-Fall-Project-Blog-week5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623248</name></author><id>tag:None,2018-10-08:./2018-Fall-Project-Blog-week5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;onshape&lt;/h2&gt;
 &lt;p&gt;繪製2D工程圖&lt;/p&gt;
