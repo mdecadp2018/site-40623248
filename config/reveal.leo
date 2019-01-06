@@ -84,7 +84,7 @@
 <v t="leo.20181014170403.5"><vh>01</vh></v>
 </v>
 </v>
-<v t="leo.20181108184050.1" a="E"><vh>week6</vh>
+<v t="leo.20181108184050.1"><vh>week6</vh>
 <v t="leo.20181108184050.2" a="E"><vh>title</vh>
 <v t="leo.20181108184050.3"><vh>week6</vh></v>
 </v>
@@ -94,14 +94,39 @@
 <v t="leo.20181108184052.3"><vh>week7</vh></v>
 </v>
 </v>
-<v t="leo.20181108184055.1" a="E"><vh>week8</vh>
+<v t="leo.20181108184055.1"><vh>week8</vh>
 <v t="leo.20181108184055.2" a="E"><vh>title</vh>
 <v t="leo.20181108184055.3"><vh>week8</vh></v>
 </v>
 </v>
-<v t="leo.20181108184057.1" a="E"><vh>week9</vh>
+<v t="leo.20181108184057.1"><vh>week9</vh>
 <v t="leo.20181108184057.2" a="E"><vh>title</vh>
 <v t="leo.20181108184057.3"><vh>week9</vh></v>
+</v>
+</v>
+<v t="leo.20190107014624.1" a="E"><vh>week10-12</vh>
+<v t="leo.20190107014624.2" a="E"><vh>title</vh>
+<v t="leo.20190107014624.3"><vh>week10-12</vh></v>
+</v>
+</v>
+<v t="leo.20190107014630.1" a="E"><vh>week13-15</vh>
+<v t="leo.20190107014630.2" a="E"><vh>title</vh>
+<v t="leo.20190107014630.3"><vh>week13-15</vh></v>
+</v>
+</v>
+<v t="leo.20190107014640.1" a="E"><vh>week16</vh>
+<v t="leo.20190107014640.2" a="E"><vh>title</vh>
+<v t="leo.20190107014640.3"><vh>week16</vh></v>
+</v>
+</v>
+<v t="leo.20190107014645.1" a="E"><vh>week17</vh>
+<v t="leo.20190107014645.2" a="E"><vh>title</vh>
+<v t="leo.20190107014645.3"><vh>week17</vh></v>
+</v>
+</v>
+<v t="leo.20190107014650.1" a="E"><vh>week18</vh>
+<v t="leo.20190107014650.2" a="E"><vh>title</vh>
+<v t="leo.20190107014650.3"><vh>week9</vh></v>
 </v>
 </v>
 </v>
@@ -412,7 +437,9 @@ make.start()
 
 * 熟悉github
 
-* 建立一個新的倉庫,名字為自己的學 號.github.io,權限設為公開</t>
+* 建立一個新的倉庫,名字為自己的學 號.github.io,權限設為公開
+
+</t>
 <t tx="leo.20181014165804.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -460,7 +487,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181014170137.3"># week2
-* 領期中的作業,自行掌握每周的進度</t>
+* 領期中的作業,自行掌握每周的進度
+
+</t>
 <t tx="leo.20181014170137.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -488,7 +517,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181014170137.7">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2JJEDDgACkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181014170137.7">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2JJEDDgACkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181014170153.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -506,7 +537,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181014170153.3"># week3
-9月24日中秋節放假（●´∀｀）ノ</t>
+9月24日中秋節放假（●´∀｀）ノ
+
+</t>
 <t tx="leo.20181014170153.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -524,7 +557,9 @@ make.start()
 使用boolean指令編輯多零件之特徵
 &lt;small&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wTxKYAOpdgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wTxKYAOpdgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181014170356.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -542,7 +577,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181014170356.3"># week4
-* 開始使用onshape,因為英文版的介面,在練習的時候都要先查各個指令的意思,才能順利的完成作業</t>
+* 開始使用onshape,因為英文版的介面,在練習的時候都要先查各個指令的意思,才能順利的完成作業
+
+</t>
 <t tx="leo.20181014170356.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -560,7 +597,9 @@ make.start()
 練習組合圖之約束條件
 &lt;small&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Kidf2S2T6AI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Kidf2S2T6AI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181014170403.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -581,7 +620,9 @@ make.start()
 
 * 練習onshape
 
-* 了解設計意圖是什麼</t>
+* 了解設計意圖是什麼
+
+</t>
 <t tx="leo.20181014170403.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -661,7 +702,9 @@ make.start()
 
 * 開始找期末組員
 
-* 練習onshape</t>
+* 練習onshape
+
+</t>
 <t tx="leo.20181108184057.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -681,6 +724,110 @@ make.start()
 <t tx="leo.20181108184057.3"># week9
 
 * 期末考周,自評分數
+</t>
+<t tx="leo.20190107014624.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190107014624.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190107014624.3"># week10~12
+
+* Onshape教學
+* 繪製鋼球系統
+</t>
+<t tx="leo.20190107014630.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190107014630.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190107014630.3"># week13~15
+
+* 繪製鋼球系統
+* 進行vrep模擬
+</t>
+<t tx="leo.20190107014640.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190107014640.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190107014640.3"># week16
+
+* 修改鋼球系統的零件
+* 進行vrep模擬
+</t>
+<t tx="leo.20190107014645.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190107014645.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190107014645.3"># week9
+
+* 與組員解決PDF大部分的問題並完成報告
+</t>
+<t tx="leo.20190107014650.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190107014650.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190107014650.3"># week9
+
+經過了9週的時間，我們終於協力完成了這個專題，很高興組長與組員都很認真也花很多時間在研究機構、vrep與pdf，過程中遇到了不少問題，大家也都盡了力去解決，雖然我們做的題目沒有很困難，但還是學習到了不少東西。
+
 </t>
 </tnodes>
 </leo_file>
