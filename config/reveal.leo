@@ -99,7 +99,7 @@
 <v t="leo.20181108184055.3"><vh>week8</vh></v>
 </v>
 </v>
-<v t="leo.20181108184057.1"><vh>week9</vh>
+<v t="leo.20181108184057.1" a="E"><vh>week9</vh>
 <v t="leo.20181108184057.2" a="E"><vh>title</vh>
 <v t="leo.20181108184057.3"><vh>week9</vh></v>
 </v>
@@ -723,7 +723,7 @@ make.start()
 </t>
 <t tx="leo.20181108184057.3"># week9
 
-* 期末考周,自評分數
+* 期末考週,自評分數
 </t>
 <t tx="leo.20190107014624.1">&lt;section&gt;
 @others
