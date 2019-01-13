@@ -140,6 +140,14 @@
 <v t="leo.20190107014650.2" a="E"><vh>title</vh>
 <v t="leo.20190107014650.3"><vh>week18</vh></v>
 </v>
+<v t="leo.20190113143059.1" a="E"><vh>photo</vh>
+<v t="leo.20190113143059.2"><vh>photo</vh></v>
+</v>
+</v>
+<v t="leo.20190113142751.1" a="E"><vh>week18-1</vh>
+<v t="leo.20190113142751.2" a="E"><vh>title</vh>
+<v t="leo.20190113142751.3"><vh>week18</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -847,7 +855,9 @@ Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔
 </t>
 <t tx="leo.20190107014650.3"># week18
 
-經過了9週的時間，我們終於協力完成了這個專題，很高興組長與組員都很認真也花很多時間在研究機構、vrep與pdf，過程中遇到了不少問題，大家也都盡了力去解決，雖然我們做的題目沒有很困難，但還是學習到了不少東西。
+* 錄製3分鐘學習影片
+* 打自評成成績
+
 
 </t>
 <t tx="leo.20190113123430.1">&lt;section data-markdown&gt;
@@ -890,5 +900,37 @@ Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔
 						
 </t>
 <t tx="leo.20190113132323.2">&lt;img src="https://github.com/mdecadp2018/site-40623248/blob/gh-pages/images/test_01.PNG?raw=true"  height="375" width="600"&gt;</t>
+<t tx="leo.20190113142751.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190113142751.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190113142751.3"># 總結
+
+經過了9週的時間，我們終於協力完成了這個專題，很高興組長與組員都很認真也花很多時間在研究機構、vrep與pdf，過程中遇到了不少問題，大家也都盡了力去解決，雖然我們做的題目沒有很困難，但還是學習到了不少東西。
+
+</t>
+<t tx="leo.20190113143059.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190113143059.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iLNx7B1uVJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 </tnodes>
 </leo_file>
