@@ -38,7 +38,7 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181014165804.1"><vh>week1</vh>
+<v t="leo.20181014165804.1" a="E"><vh>week1</vh>
 <v t="leo.20181014165804.2" a="E"><vh>title</vh>
 <v t="leo.20181014165804.3"><vh>week1</vh></v>
 </v>
@@ -49,7 +49,7 @@
 <v t="leo.20181014165804.7"><vh>02</vh></v>
 </v>
 </v>
-<v t="leo.20181014170137.1"><vh>week2</vh>
+<v t="leo.20181014170137.1" a="E"><vh>week2</vh>
 <v t="leo.20181014170137.2" a="E"><vh>title</vh>
 <v t="leo.20181014170137.3"><vh>week2</vh></v>
 </v>
@@ -60,7 +60,7 @@
 <v t="leo.20181014170137.7"><vh>02</vh></v>
 </v>
 </v>
-<v t="leo.20181014170153.1"><vh>week3</vh>
+<v t="leo.20181014170153.1" a="E"><vh>week3</vh>
 <v t="leo.20181014170153.2" a="E"><vh>title</vh>
 <v t="leo.20181014170153.3"><vh>week3</vh></v>
 </v>
@@ -68,7 +68,7 @@
 <v t="leo.20181014170153.5"><vh>01</vh></v>
 </v>
 </v>
-<v t="leo.20181014170356.1"><vh>week4</vh>
+<v t="leo.20181014170356.1" a="E"><vh>week4</vh>
 <v t="leo.20181014170356.2" a="E"><vh>title</vh>
 <v t="leo.20181014170356.3"><vh>week4</vh></v>
 </v>
@@ -76,7 +76,7 @@
 <v t="leo.20181014170356.5"><vh>01</vh></v>
 </v>
 </v>
-<v t="leo.20181014170403.1"><vh>week5</vh>
+<v t="leo.20181014170403.1" a="E"><vh>week5</vh>
 <v t="leo.20181014170403.2" a="E"><vh>title</vh>
 <v t="leo.20181014170403.3"><vh>week5</vh></v>
 </v>
@@ -84,17 +84,17 @@
 <v t="leo.20181014170403.5"><vh>01</vh></v>
 </v>
 </v>
-<v t="leo.20181108184050.1"><vh>week6</vh>
+<v t="leo.20181108184050.1" a="E"><vh>week6</vh>
 <v t="leo.20181108184050.2" a="E"><vh>title</vh>
 <v t="leo.20181108184050.3"><vh>week6</vh></v>
 </v>
 </v>
-<v t="leo.20181108184052.1"><vh>week7</vh>
+<v t="leo.20181108184052.1" a="E"><vh>week7</vh>
 <v t="leo.20181108184052.2" a="E"><vh>title</vh>
 <v t="leo.20181108184052.3"><vh>week7</vh></v>
 </v>
 </v>
-<v t="leo.20181108184055.1"><vh>week8</vh>
+<v t="leo.20181108184055.1" a="E"><vh>week8</vh>
 <v t="leo.20181108184055.2" a="E"><vh>title</vh>
 <v t="leo.20181108184055.3"><vh>week8</vh></v>
 </v>
@@ -108,10 +108,16 @@
 <v t="leo.20190107014624.2" a="E"><vh>title</vh>
 <v t="leo.20190107014624.3"><vh>week10-12</vh></v>
 </v>
+<v t="leo.20190113123430.1" a="E"><vh>photo</vh>
+<v t="leo.20190113123430.2"><vh>photo</vh></v>
+</v>
 </v>
 <v t="leo.20190107014630.1" a="E"><vh>week13-15</vh>
 <v t="leo.20190107014630.2" a="E"><vh>title</vh>
 <v t="leo.20190107014630.3"><vh>week13-15</vh></v>
+</v>
+<v t="leo.20190113130746.1" a="E"><vh>photo</vh>
+<v t="leo.20190113130746.2"><vh>photo</vh></v>
 </v>
 </v>
 <v t="leo.20190107014640.1" a="E"><vh>week16</vh>
@@ -122,6 +128,9 @@
 <v t="leo.20190107014645.1" a="E"><vh>week17</vh>
 <v t="leo.20190107014645.2" a="E"><vh>title</vh>
 <v t="leo.20190107014645.3"><vh>week17</vh></v>
+</v>
+<v t="leo.20190113130754.1" a="E"><vh>photo</vh>
+<v t="leo.20190113130754.2"><vh>photo</vh></v>
 </v>
 </v>
 <v t="leo.20190107014650.1" a="E"><vh>week18</vh>
@@ -487,7 +496,7 @@ make.start()
 						
 </t>
 <t tx="leo.20181014170137.3"># week2
-* 領期中的作業,自行掌握每周的進度
+領期中的作業,自行掌握每周的進度
 
 </t>
 <t tx="leo.20181014170137.4">&lt;section data-markdown&gt;
@@ -577,7 +586,12 @@ make.start()
 						
 </t>
 <t tx="leo.20181014170356.3"># week4
-* 開始使用onshape,因為英文版的介面,在練習的時候都要先查各個指令的意思,才能順利的完成作業
+
+倉儲管理
+
+* 使用onshape時,因為英文版的介面,在練習的時候都要先查各個指令的意思,才能順利的完成作業
+
+
 
 </t>
 <t tx="leo.20181014170356.4">&lt;section data-markdown&gt;
@@ -622,6 +636,8 @@ make.start()
 
 * 了解設計意圖是什麼
 
+* 期末分組有8個題目，可以挑選適合自己的題目
+
 </t>
 <t tx="leo.20181014170403.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -660,7 +676,8 @@ make.start()
 						
 </t>
 <t tx="leo.20181108184050.3"># week6
-* 升級最新的CMSimfly倉儲中的flaskapp.py
+
+升級最新的CMSimfly倉儲中的flaskapp.py
 </t>
 <t tx="leo.20181108184052.1">&lt;section&gt;
 @others
@@ -680,7 +697,7 @@ make.start()
 </t>
 <t tx="leo.20181108184052.3"># week7
 
-* 由於github無法登入,也許是因為github在更換伺服器所,若不是這個問題可能要回去使用Fossli SCM
+由於github無法登入,也許是因為github在更換伺服器所,若不是這個問題可能要回去使用Fossli SCM
 </t>
 <t tx="leo.20181108184055.1">&lt;section&gt;
 @others
@@ -700,9 +717,10 @@ make.start()
 </t>
 <t tx="leo.20181108184055.3"># week8
 
+Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔助機械設計繪圖，此一雲端工具在假設網路無所不在的環境中，新產品開發團隊成員可以利用雲般無所不在，且毫無限制的電腦輔助設計套件，協同完成各式零組件的設計與繪製。
+
 * 開始找期末組員
 
-* 練習onshape
 
 </t>
 <t tx="leo.20181108184057.1">&lt;section&gt;
@@ -829,5 +847,35 @@ make.start()
 經過了9週的時間，我們終於協力完成了這個專題，很高興組長與組員都很認真也花很多時間在研究機構、vrep與pdf，過程中遇到了不少問題，大家也都盡了力去解決，雖然我們做的題目沒有很困難，但還是學習到了不少東西。
 
 </t>
+<t tx="leo.20190113123430.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190113123430.2">#</t>
+<t tx="leo.20190113130746.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190113130746.2">#</t>
+<t tx="leo.20190113130754.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190113130754.2">#</t>
 </tnodes>
 </leo_file>
