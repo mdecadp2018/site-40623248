@@ -598,9 +598,10 @@ make.start()
 </t>
 <t tx="leo.20181014170356.3"># week4
 
-倉儲管理
+### 倉儲管理
 
 * 使用onshape時,因為英文版的介面,在練習的時候都要先查各個指令的意思,才能順利的完成作業
+製作on
 
 
 
@@ -708,7 +709,8 @@ make.start()
 </t>
 <t tx="leo.20181108184052.3"># week7
 
-由於github無法登入,也許是因為github在更換伺服器所,若不是這個問題可能要回去使用Fossli SCM
+github無法登入
+也許是因為github在更換伺服器所,若不是這個問題可能要回去使用Fossli SCM
 </t>
 <t tx="leo.20181108184055.1">&lt;section&gt;
 @others
