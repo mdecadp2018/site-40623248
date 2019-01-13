@@ -124,6 +124,9 @@
 <v t="leo.20190107014640.2" a="E"><vh>title</vh>
 <v t="leo.20190107014640.3"><vh>week16</vh></v>
 </v>
+<v t="leo.20190113132323.1" a="E"><vh>photo</vh>
+<v t="leo.20190113132323.2"><vh>photo</vh></v>
+</v>
 </v>
 <v t="leo.20190107014645.1" a="E"><vh>week17</vh>
 <v t="leo.20190107014645.2" a="E"><vh>title</vh>
@@ -856,7 +859,7 @@ Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔
 
 						
 </t>
-<t tx="leo.20190113123430.2">#</t>
+<t tx="leo.20190113123430.2">&lt;img src="https://github.com/mdecadp2018/site-40623248/blob/gh-pages/images/test.PNG?raw=true"  height="405" width="500"&gt;</t>
 <t tx="leo.20190113130746.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -866,7 +869,7 @@ Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔
 
 						
 </t>
-<t tx="leo.20190113130746.2">#</t>
+<t tx="leo.20190113130746.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ASuSPQeMorU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190113130754.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -876,6 +879,16 @@ Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔
 
 						
 </t>
-<t tx="leo.20190113130754.2">#</t>
+<t tx="leo.20190113130754.2">&lt;img src="https://github.com/mdecadp2018/site-40623248/blob/gh-pages/images/walk.gif?raw=true"  height="344" width="700"&gt;</t>
+<t tx="leo.20190113132323.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190113132323.2">&lt;img src="https://github.com/mdecadp2018/site-40623248/blob/gh-pages/images/test_01.PNG?raw=true"  height="375" width="600"&gt;</t>
 </tnodes>
 </leo_file>
